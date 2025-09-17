@@ -1,0 +1,35 @@
+# Environment variables
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs
+*.log
+touch_bar_assistant.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# MTMR config (user-specific)
+~/Library/Application Support/MTMR/items.json
